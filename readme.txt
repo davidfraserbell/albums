@@ -1,3 +1,6 @@
+To run unit tests
+
+assuming go is installed type the following command...
 go test -v ./...
 
 you should then see the following output
