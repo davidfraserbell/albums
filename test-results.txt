@@ -1,0 +1,23 @@
+/usr/local/go/bin/go tool test2json -t /private/var/folders/80/l88t2t0j7lgcgt38vwqc6s040000gn/T/___go_test_records_Albums.test -test.v -test.paniconexit0
+=== RUN   Test_AddNewAlbum_Error
+--- PASS: Test_AddNewAlbum_Error (0.00s)
+=== RUN   Test_GetAlbumById_Error
+2021/07/23 15:51:01 GetAlbumById called
+--- PASS: Test_GetAlbumById_Error (0.00s)
+=== RUN   Test_DeleteAlbum
+--- PASS: Test_DeleteAlbum (0.00s)
+=== RUN   Test_DeleteAlbum_Error
+--- PASS: Test_DeleteAlbum_Error (0.00s)
+=== RUN   Example_AddNewAlbum
+2021/07/23 15:51:01 GetAlbumById called
+--- PASS: Example_AddNewAlbum (0.00s)
+=== RUN   Example_GetAlbumById
+2021/07/23 15:51:01 GetAlbumById called
+--- PASS: Example_GetAlbumById (0.00s)
+=== RUN   Example_GetAlbumsByArtist
+--- PASS: Example_GetAlbumsByArtist (0.00s)
+=== RUN   Example_UpdateAlbum_Melorama
+--- PASS: Example_UpdateAlbum_Melorama (0.00s)
+=== RUN   Example_UpdateAlbum_Fake
+--- PASS: Example_UpdateAlbum_Fake (0.00s)
+PASS
